@@ -1,5 +1,5 @@
 # bridge-bidding-box
-An assistant to help you play bridge without a physical bidding box!
+Dont have a bidding box? This assistant will help you play bridge without a physical bidding box!
 
 *pass: (P/p)
 
