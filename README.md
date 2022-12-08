@@ -2,6 +2,7 @@
 An assistant to help you play bridge without a physical bidding box!
 
 *pass: (P/p)
+
 *you can undo ONCE by inputting "undo" in place of your new bid. 
  
 Here is an example of how to use this bidding box ૮ ˶ᵔ ᵕ ᵔ˶ ა✧*。
@@ -46,6 +47,7 @@ East's bid: P
         2H      P       -       -
 
 South's bid: P
+
         N       E       S       W
         1H      P       1S      2D
         2H      P       P       -
